@@ -34,7 +34,7 @@ if not exist "C:\users\all users\8MB for 4chan\8MB for 4chan.bat" copy "8MB for 
 @echo KeepQuality=0 >> "C:\users\all users\8MB for 4chan\i_view32.ini"
 @echo ExifOrient=1 >> "C:\users\all users\8MB for 4chan\i_view32.ini"
 @echo SetSize=1 >> "C:\users\all users\8MB for 4chan\i_view32.ini"
-@echo FileSize=7500.00 >> "C:\users\all users\8MB for 4chan\i_view32.ini"
+@echo FileSize=7600.00 >> "C:\users\all users\8MB for 4chan\i_view32.ini"
 
 
 @echo [Language] > "C:\users\all users\8MB for 4chan\i_view64.ini"
@@ -68,7 +68,7 @@ if not exist "C:\users\all users\8MB for 4chan\8MB for 4chan.bat" copy "8MB for 
 @echo KeepQuality=0 >> "C:\users\all users\8MB for 4chan\i_view64.ini"
 @echo ExifOrient=1 >> "C:\users\all users\8MB for 4chan\i_view64.ini"
 @echo SetSize=1 >> "C:\users\all users\8MB for 4chan\i_view64.ini"
-@echo FileSize=7500.00 >> "C:\users\all users\8MB for 4chan\i_view64.ini"
+@echo FileSize=7600.00 >> "C:\users\all users\8MB for 4chan\i_view64.ini"
 
 
 set run_32bit_irfanview="%ProgramFiles(x86)%\Irfanview\i_view32.exe" %1 /convert="%userprofile%\pictures\8MB for 4chan\8MB COMPRESSED $N.jpg" /ini="C:\users\all users\8MB for 4chan" 
