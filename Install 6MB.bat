@@ -34,7 +34,7 @@ if not exist "C:\users\all users\6MB for 4chan\6MB for 4chan.bat" copy "6MB for 
 @echo KeepQuality=0 >> "C:\users\all users\6MB for 4chan\i_view32.ini"
 @echo ExifOrient=1 >> "C:\users\all users\6MB for 4chan\i_view32.ini"
 @echo SetSize=1 >> "C:\users\all users\6MB for 4chan\i_view32.ini"
-@echo FileSize=5500.00 >> "C:\users\all users\6MB for 4chan\i_view32.ini"
+@echo FileSize=5600.00 >> "C:\users\all users\6MB for 4chan\i_view32.ini"
 
 
 @echo [Language] > "C:\users\all users\6MB for 4chan\i_view64.ini"
@@ -68,7 +68,7 @@ if not exist "C:\users\all users\6MB for 4chan\6MB for 4chan.bat" copy "6MB for 
 @echo KeepQuality=0 >> "C:\users\all users\6MB for 4chan\i_view64.ini"
 @echo ExifOrient=1 >> "C:\users\all users\6MB for 4chan\i_view64.ini"
 @echo SetSize=1 >> "C:\users\all users\6MB for 4chan\i_view64.ini"
-@echo FileSize=5500.00 >> "C:\users\all users\6MB for 4chan\i_view64.ini"
+@echo FileSize=5600.00 >> "C:\users\all users\6MB for 4chan\i_view64.ini"
 
 @echo Installing 6MB context menu registry keys (hit yes)
 
