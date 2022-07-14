@@ -9,4 +9,4 @@ Installation:
 3. Run the Install batch file(s) you want.
 4. Enjoy your right-click context menus on image files allowing you to automatically compress large images to 4MB, 6MB, and/or 8MB for posting.
 
-After you've installed it you can delete all the installation files.
+After installation you can delete all the installation files.
