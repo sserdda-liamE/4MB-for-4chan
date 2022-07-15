@@ -1,6 +1,7 @@
 @echo off
 if not exist "C:\users\all users\8MB for 4chan" mkdir "C:\users\all users\8MB for 4chan\" 
-if not exist "C:\users\all users\8MB for 4chan\8MB for 4chan.bat" copy "8MB for 4chan.bat" "C:\users\all users\8MB for 4chan\"
+if exist "C:\users\all users\8MB for 4chan\8MB for 4chan.bat" del "C:\users\all users\8MB for 4chan\8MB for 4chan.bat"
+copy "8MB for 4chan.bat" "C:\users\all users\8MB for 4chan\"
 
 
 @echo [Language] > "C:\users\all users\8MB for 4chan\i_view32.ini"
