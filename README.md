@@ -17,4 +17,4 @@ Saves compressed images to a special folder in your Pictures directory for easy 
 
 Compresses to 4:4:4 jpeg so as not to butcher drawings.
 
-Actual file size targets are 3550KB, 5600KB, and 7600KB respectively, due to the fact that 4chan can increase the size of jpegs on upload. I erred on the side of avoiding "File Too Large" errors on posting.
+Actual file size targets are 3550KB, 5600KB, and 7600KB respectively, due to the fact that 4chan can increase the size of jpegs on upload.  I erred on the side of avoiding "File Too Large" errors on posting.
