@@ -11,7 +11,7 @@ Installation:
 
 The installer installs Irfanview INI files and a compression batch file to C:\Users\All Users.  The context menu calls the batch file.
 
-Context menu will be active on PNG, TIF, TIFF, BMP, JPG, JPEG, JPE, and PSD files
+Context menu will be active on PNG, TIF, TIFF, BMP, JPG, JPEG, JPE, and PSD files.  Update: Also .WEBP for easy conversion to jpeg for posting.
 
 Saves compressed images to a special folder in your Pictures directory for easy browsing and clean up.
 
