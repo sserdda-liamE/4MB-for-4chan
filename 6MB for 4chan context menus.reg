@@ -48,5 +48,11 @@ Windows Registry Editor Version 5.00
 [HKEY_CLASSES_ROOT\SystemFileAssociations\.psd\shell\6MB for 4chan\command]
 @="\"C:\\users\\all users\\6MB for 4chan\\6MB for 4chan.bat\" \"%1\""
 
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.webp\shell\4MB for 4chan]
+@="4MB for 4chan"
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.webp\shell\4MB for 4chan\command]
+@="\"C:\\users\\all users\\4MB for 4chan\\4MB for 4chan.bat\" \"%1\""
+
 
 
