@@ -16,6 +16,8 @@ Windows Registry Editor Version 5.00
 
 [-HKEY_CLASSES_ROOT\SystemFileAssociations\.psd\shell\4MB for 4chan]
 
+[-HKEY_CLASSES_ROOT\SystemFileAssociations\.webp\shell\4MB for 4chan]
+
 [-HKEY_CLASSES_ROOT\SystemFileAssociations\.jpg\shell\6MB for 4chan]
 
 [-HKEY_CLASSES_ROOT\SystemFileAssociations\.png\shell\6MB for 4chan]
