@@ -1,0 +1,58 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.jpg\shell\2MB for 4chan]
+@="2MB for 4chan"
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.jpg\shell\2MB for 4chan\command]
+@="\"C:\\users\\all users\\2MB for 4chan\\2MB for 4chan.bat\" \"%1\""
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.png\shell\2MB for 4chan]
+@="2MB for 4chan"
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.png\shell\2MB for 4chan\command]
+@="\"C:\\users\\all users\\2MB for 4chan\\2MB for 4chan.bat\" \"%1\""
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.bmp\shell\2MB for 4chan]
+@="2MB for 4chan"
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.bmp\shell\2MB for 4chan\command]
+@="\"C:\\users\\all users\\2MB for 4chan\\2MB for 4chan.bat\" \"%1\""
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.tif\shell\2MB for 4chan]
+@="2MB for 4chan"
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.tif\shell\2MB for 4chan\command]
+@="\"C:\\users\\all users\\2MB for 4chan\\2MB for 4chan.bat\" \"%1\""
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.tiff\shell\2MB for 4chan]
+@="2MB for 4chan"
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.tiff\shell\2MB for 4chan\command]
+@="\"C:\\users\\all users\\2MB for 4chan\\2MB for 4chan.bat\" \"%1\""
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.jpeg\shell\2MB for 4chan]
+@="2MB for 4chan"
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.jpeg\shell\2MB for 4chan\command]
+@="\"C:\\users\\all users\\2MB for 4chan\\2MB for 4chan.bat\" \"%1\""
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.jpe\shell\2MB for 4chan]
+@="2MB for 4chan"
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.jpe\shell\2MB for 4chan\command]
+@="\"C:\\users\\all users\\2MB for 4chan\\2MB for 4chan.bat\" \"%1\""
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.psd\shell\2MB for 4chan]
+@="2MB for 4chan"
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.psd\shell\2MB for 4chan\command]
+@="\"C:\\users\\all users\\2MB for 4chan\\2MB for 4chan.bat\" \"%1\""
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.webp\shell\2MB for 4chan]
+@="2MB for 4chan"
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.webp\shell\2MB for 4chan\command]
+@="\"C:\\users\\all users\\2MB for 4chan\\2MB for 4chan.bat\" \"%1\""
+
+
+
