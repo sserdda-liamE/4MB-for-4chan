@@ -17,4 +17,4 @@ Saves compressed images to a special folder in your Pictures directory for easy 
 
 Compresses to 4:4:4 jpeg so as not to butcher drawings.
 
-https://private-user-images.githubusercontent.com/48846679/297142328-dc370f39-7c09-4a42-8f83-2803b5b767e7.png
+![Untitled](https://github.com/sserdda-liamE/4MB-for-4chan/assets/48846679/dc370f39-7c09-4a42-8f83-2803b5b767e7)
